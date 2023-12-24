@@ -1,1 +1,1 @@
-A sinple React quiz app
+A simple React quiz app
